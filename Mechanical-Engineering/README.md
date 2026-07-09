@@ -15,7 +15,7 @@ Design the initial mechanical structure of a simple quadruped robotic dog.
 - Proposed walking gait
 
 ## Files
-- Initial Mechanical Design of a Simple Robotic Dog.pdf
+- Initial Mechanical Design of a Simple Robotic Dog(task1.pdf)
 
 ## Status
 ✅ Completed
